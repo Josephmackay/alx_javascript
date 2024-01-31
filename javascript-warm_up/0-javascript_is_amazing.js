@@ -1,5 +1,5 @@
-// Creating a constant variable called Var
-const Var = "JavaScript is amazing";
+// Creating a constant variable called myVar
+const myVar = "JavaScript is amazing";
 
 // Using console.log to print the output
-console.log(Var);
+console.log(myVar);
